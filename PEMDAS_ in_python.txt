@@ -1,0 +1,3 @@
+PEMDAS = Please Escuse My Dear Aunt Sally
+
+for python =  P=Paranthese E=Exponents M=Multiplication D=Divison A=Addition S=Subtraction

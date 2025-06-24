@@ -1,0 +1,18 @@
+Bonne question !  
+Quand tu fais `41 / 3`, tu obtiens le résultat de la division « normale » (division décimale), donc 13.66667.
+
+Mais l’opérateur `%` (modulo) ne donne pas le résultat de la division, il donne le **reste** de la division entière.
+
+Voici comment ça marche :
+
+- 3 × 13 = 39  
+- 41 - 39 = 2
+
+Donc, quand tu divises 41 par 3 :
+- Le quotient entier est 13 (car 3 × 13 = 39)
+- Le reste est 2 (car 41 - 39 = 2)
+
+C’est ce reste que donne `41 % 3`.  
+En résumé :  
+- `/` donne le résultat décimal  
+- `%` donne le reste de la division entière

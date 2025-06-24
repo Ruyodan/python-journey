@@ -1,0 +1,9 @@
+-In python string=text, always string start with quotations “”
+
+-we can use comma (,) to separate between 2 strings just need to be comma outside quotations “”
+
+-in numbers maybe we can print code without using quotes
+
+-to separate 2 different type of data we need to use comma (,)
+
+-
